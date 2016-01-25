@@ -302,4 +302,44 @@ function allPhrases(){
         title: superLan[dirlan][natlan][4], 
         subtitle: superLan[dirlan][translan][4],
         }, {
-        title: supe
+        title: superLan[dirlan][natlan][5], 
+        subtitle: superLan[dirlan][translan][5],
+        }, {
+        title: superLan[dirlan][natlan][6], 
+        subtitle: superLan[dirlan][translan][6],
+        }, {
+        title: superLan[dirlan][natlan][7], 
+        subtitle: superLan[dirlan][translan][7],
+        }, {
+        title: superLan[dirlan][natlan][8], 
+        subtitle: superLan[dirlan][translan][8],
+        }, {
+        title: superLan[dirlan][natlan][9], 
+        subtitle: superLan[dirlan][translan][9],
+        }, {
+        title: superLan[dirlan][natlan][10], 
+        subtitle: superLan[dirlan][translan][10],
+        }, {
+        title: superLan[dirlan][natlan][11], 
+        subtitle: superLan[dirlan][translan][11],
+        }, {
+        title: superLan[dirlan][natlan][12], 
+        subtitle: superLan[dirlan][translan][12],
+        }, {
+        title: superLan[dirlan][natlan][13], 
+        subtitle: superLan[dirlan][translan][13],
+        }, {
+        title: superLan[dirlan][natlan][14], 
+        subtitle: superLan[dirlan][translan][14],
+        }, {
+        title: superLan[dirlan][natlan][15], 
+        subtitle: superLan[dirlan][translan][15],
+        }, {
+        title: superLan[dirlan][natlan][16], 
+        subtitle: superLan[dirlan][translan][16],
+        }, {
+        title: superLan[dirlan][natlan][17],
+        subtitle: superLan[dirlan][translan][17],
+      }]
+    }]
+  });
